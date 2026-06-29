@@ -1,0 +1,6 @@
+{
+  "name": "AgentFlow",
+  "description": "Constructor de flujos de automatización visual estilo Apple Glassmorphic con integraciones, logs de ejecución y un Copilot inteligente Claude Code integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
